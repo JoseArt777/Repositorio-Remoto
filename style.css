@@ -3,12 +3,12 @@
  	margin: 0;
  	padding: 0;
  	box-sizing: border-box;
- 	background-color: black;
+ 	background-color: blue;
 
 }
 
 h1{
-	color: blue;
+	color: purple;
 	font-style: oblique;
 	font-family: fantasy;
 
@@ -20,7 +20,7 @@ h2{
 }
 h3{
 
-	color: rgba(350, 60, 50, 260);
+	color: orange;
 	font-style: oblique;
 	font-family: fantasy;
 
